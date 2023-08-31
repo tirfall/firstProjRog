@@ -1,0 +1,12 @@
+/*kommentaar*/
+header{
+    color: white;
+    background-color: black;
+    width: 60%;
+}
+header h1{
+    font-family: Algerian;
+    font-size: larger;
+    letter-spacing: 0.5cm;
+    border-bottom: solid 1pt red;/*dotted dashed double*/
+}
